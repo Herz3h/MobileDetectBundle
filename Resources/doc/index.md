@@ -27,7 +27,7 @@ Or add to `composer.json` in your project to `require` section:
 
 ```json
 {
-    "suncat/mobile-detect-bundle": "1.0.*"
+    "suncat/mobile-detect-bundle": "^1.1"
 }
 ```
 and run command:
